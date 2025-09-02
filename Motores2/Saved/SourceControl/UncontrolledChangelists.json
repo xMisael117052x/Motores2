@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/AI/Blueprints/BP_SimpleNPC.uasset",
-				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/AI/AIcontrollers/AIC_Simple.uasset"
+				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/AI/AIcontrollers/AIC_Simple.uasset",
+				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/Materiales/M_Hielo.uasset",
+				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/Materiales/Hielo/01_T_ICE_Normal.uasset",
+				"C:/Users/xmisa/Documents/Github/Motores2/Motores2/Content/Materiales/Hielo/02_T_PerlinNoise.uasset"
 			]
 		}
 	]
